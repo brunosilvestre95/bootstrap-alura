@@ -13,6 +13,14 @@ lilás #9353FF
 
 /* parte inferior do site */
 
+.botao-lilas {
+    background-color: #9353FF;
+}
+
+.verde-limao {
+    color: #DAFF01;
+}
+
 .texto-menor {
     font-size: 13px;
 }
