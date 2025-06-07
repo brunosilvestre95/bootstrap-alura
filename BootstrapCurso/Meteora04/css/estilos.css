@@ -13,6 +13,8 @@ lilás #9353FF
 
 /* parte inferior do site */
 
+
+
 .texto-menor {
     font-size: 13px;
 }
@@ -31,4 +33,14 @@ lilás #9353FF
         width: 696px;
     }
 
+}
+
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
 }
